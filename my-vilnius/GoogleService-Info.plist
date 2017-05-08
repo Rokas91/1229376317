@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>945372327892-uq7k0c049tt18971cqeacki3kka53a71.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.945372327892-uq7k0c049tt18971cqeacki3kka53a71</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB85fUk7ENmiYKUStZWhiSj7yrsgd3DWwk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>945372327892</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Rokas.my-vilnius</string>
+	<key>PROJECT_ID</key>
+	<string>my-vilnius-eba41</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-vilnius-eba41.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:945372327892:ios:c41dc2584c98762e</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-vilnius-eba41.firebaseio.com</string>
+</dict>
+</plist>

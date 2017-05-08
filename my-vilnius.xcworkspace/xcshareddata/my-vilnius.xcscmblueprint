@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "44BDC447C1B2E42D273DC184E239BFD27B5B2A91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "44BDC447C1B2E42D273DC184E239BFD27B5B2A91" : 9223372036854775807,
+    "78BC981234DC9ACF745E820B97CE28D46F6D69E7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D72C5B0A-9349-4338-B62A-E6892402E72C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "44BDC447C1B2E42D273DC184E239BFD27B5B2A91" : "my-vilnius\/",
+    "78BC981234DC9ACF745E820B97CE28D46F6D69E7" : "my-vilnius\/my-vilnius\/geofire-objc\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "my-vilnius",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "my-vilnius.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Rokas91\/my-vilnius.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "44BDC447C1B2E42D273DC184E239BFD27B5B2A91"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/firebase\/geofire-objc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78BC981234DC9ACF745E820B97CE28D46F6D69E7"
+    }
+  ]
+}

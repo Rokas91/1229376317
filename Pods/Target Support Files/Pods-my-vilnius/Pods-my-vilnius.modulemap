@@ -1,0 +1,6 @@
+framework module Pods_my_vilnius {
+  umbrella header "Pods-my-vilnius-umbrella.h"
+
+  export *
+  module * { export * }
+}
