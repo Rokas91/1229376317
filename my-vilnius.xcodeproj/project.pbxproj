@@ -183,7 +183,7 @@
 				D9F4328E1E981E2600DAD7A8 /* CGFloat+ext.swift */,
 				D919E4591E9ED06C00645182 /* MKAnnotationView+ext.swift */,
 			);
-			name = Extension;
+			path = Extension;
 			sourceTree = "<group>";
 		};
 		D91BF13E1E67AB020078687B /* Protocol */ = {
@@ -197,7 +197,7 @@
 				D945AD591EB1308F0098C260 /* SavingPhoto.swift */,
 				D945AD5D1EB172650098C260 /* LongPressing.swift */,
 			);
-			name = Protocol;
+			path = Protocol;
 			sourceTree = "<group>";
 		};
 		D92183F71E6240400070BC9D /* Service */ = {
@@ -206,7 +206,7 @@
 				D92183F81E62406E0070BC9D /* DataService.swift */,
 				D9F3A84E1E946AC500B01CAE /* AuthService.swift */,
 			);
-			name = Service;
+			path = Service;
 			sourceTree = "<group>";
 		};
 		D92183FA1E6242390070BC9D /* Util */ = {
@@ -215,7 +215,7 @@
 				D92183FB1E6242530070BC9D /* Constants.swift */,
 				D94327B51E8C72CA00E21B6B /* ObjectAssociation.swift */,
 			);
-			name = Util;
+			path = Util;
 			sourceTree = "<group>";
 		};
 		D956B91C1E5E3D560006ADF6 = {
@@ -239,7 +239,6 @@
 		D956B9271E5E3D580006ADF6 /* my-vilnius */ = {
 			isa = PBXGroup;
 			children = (
-				D9A4AEA01E95A92A00AEDA59 /* my-vilnius.entitlements */,
 				D91BF13E1E67AB020078687B /* Protocol */,
 				D92183FA1E6242390070BC9D /* Util */,
 				D92183F71E6240400070BC9D /* Service */,
@@ -255,11 +254,12 @@
 		D98479361E5E4717001A1F3F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D9A4AEA01E95A92A00AEDA59 /* my-vilnius.entitlements */,
 				D98479371E5E472A001A1F3F /* GoogleService-Info.plist */,
 				D956B9341E5E3D580006ADF6 /* Info.plist */,
 				D956B92F1E5E3D580006ADF6 /* Assets.xcassets */,
 			);
-			name = Resources;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		D98479391E5E4739001A1F3F /* Controller */ = {
@@ -283,7 +283,7 @@
 				D945AD5B1EB137360098C260 /* ReportViewController.swift */,
 				D958B60E1EB92D5100E01FB9 /* MainTabBarController.swift */,
 			);
-			name = Controller;
+			path = Controller;
 			sourceTree = "<group>";
 		};
 		D984793A1E5E4748001A1F3F /* View */ = {
@@ -302,7 +302,7 @@
 				D9F432921E98403800DAD7A8 /* CircleImageView.swift */,
 				D914F2ED1EB00E4B00F82239 /* SoftlyRoundedButton.swift */,
 			);
-			name = View;
+			path = View;
 			sourceTree = "<group>";
 		};
 		D984793B1E5E474E001A1F3F /* Model */ = {
@@ -312,7 +312,7 @@
 				D942DF271E6CBC6A000BEE9E /* Media.swift */,
 				D916A7EF1E85B5B8000EACB2 /* PhotoAnnotation.swift */,
 			);
-			name = Model;
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
