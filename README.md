@@ -1,3 +1,6 @@
+# Download link
+<a href="https://webapp.diawi.com/install/RbL37g" target="_blank">Download My Vilnius App</a>
+
 # Screenshots
 
 <p align="center">
